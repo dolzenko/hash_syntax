@@ -17,7 +17,6 @@ the old and the new syntaxes.}
   s.executables = [%q{hash_syntax}]
   s.extra_rdoc_files = [
     "LICENSE",
-    "README.rdoc"
   ]
   s.files = [
     ".document",
