@@ -22,7 +22,6 @@ the old and the new syntaxes.}
   s.files = [
     ".document",
     "LICENSE",
-    "README.rdoc",
     "Rakefile",
     "bin/hash_syntax",
     "hash_syntax.gemspec",
